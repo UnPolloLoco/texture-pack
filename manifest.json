@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "A Texture Pack",
+        "description": "Isn't it just gorgeous!?",
+        "uuid": "730fbb30-af8e-45f4-a0e3-94ce611451ad",
+        "version": [1,0,0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "Resource pack",
+            "uuid": "578406f5-020e-4669-ade3-dc924ad25549",
+            "type": "resources",
+            "version": [1,0,0]
+        }
+    ]
+}
