@@ -1,5 +1,14 @@
 {
     "dirt": {
         "isotropic": false
+    },
+    "snow": {
+        "isotropic": false
+    },
+    "snow_layer": {
+        "isotropic": false
+    },
+    "powder_snow": {
+        "isotropic": true
     }
 }
