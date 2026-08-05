@@ -2,6 +2,12 @@
     "dirt": {
         "isotropic": false
     },
+    "grass": {
+        "isotropic": {
+            "down" : false,
+            "up" : true
+        }
+    },
     "snow": {
         "isotropic": false
     },
