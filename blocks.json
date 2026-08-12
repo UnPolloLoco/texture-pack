@@ -16,5 +16,11 @@
     },
     "powder_snow": {
         "isotropic": true
+    },
+    "deepslate" : {
+        "isotropic" : {
+            "down" : false,
+            "up" : false
+        }
     }
 }
